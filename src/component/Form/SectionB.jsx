@@ -10,7 +10,7 @@ import SectionCTable3 from './SectionCTable3';
 import FuelConsumption from './SectionAFolder/FuelConsumption';
 import DevicesForCooking from './SectionAFolder/DevicesForCooking';
 import UtilizationOfRenewableEnergy from './SectionAFolder/UtilizationOfRenewableEnergy';
-import OwnVehicle from './SectionAFolder/OwnVehicle.JSX';
+import OwnVehicle from './SectionAFolder/OwnVehicle.jsx';
 import AwarenessForEnergyConsumption from './AwarenessForEnergyConsumption';
 import TransportQuestion from './transportQuestion';
 const SectionB = () => {
